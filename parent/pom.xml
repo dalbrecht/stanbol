@@ -60,7 +60,7 @@
     
     <!-- Library versions defined in the parent pom as constant -->
     <!-- commons lib versions -->
-    <httpcomponents-version>4.4.1</httpcomponents-version>
+    <httpcomponents-version>4.5.13</httpcomponents-version>
     <jackson-version>1.9.13</jackson-version>
     <jackson2-version>2.6.1</jackson2-version>
     <owlapi-version>3.3</owlapi-version>
